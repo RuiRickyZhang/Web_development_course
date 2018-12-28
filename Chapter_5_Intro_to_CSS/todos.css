@@ -1,3 +1,21 @@
 body {
 	background: pink;
 }
+
+li {
+	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+#special {
+	color: red;
+}
